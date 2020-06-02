@@ -1,6 +1,7 @@
 \.gif$
 \.ico$
 \.png$
+\.svg$
 ^examples/tutorial/aircraftlib/data/
 ^yarn\.lock$
 ^\.github/actions/spell-check/
