@@ -2,4 +2,5 @@
 \.ico$
 \.png$
 ^examples/tutorial/aircraftlib/data/
+^yarn\.lock$
 ^\.github/actions/spell-check/
