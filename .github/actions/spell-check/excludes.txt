@@ -3,6 +3,7 @@
 \.png$
 \.svg$
 \.woff2?$
+\.[^/]*ignore$
 ^examples/tutorial/aircraftlib/data/
 ^yarn\.lock$
 ^\.github/actions/spell-check/
