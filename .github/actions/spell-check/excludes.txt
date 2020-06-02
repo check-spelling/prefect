@@ -1,4 +1,5 @@
-^examples/tutorial/aircraftlib/data/
 \.gif$
 \.ico$
 \.png$
+^examples/tutorial/aircraftlib/data/
+^\.github/actions/spell-check/
