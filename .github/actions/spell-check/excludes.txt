@@ -1,2 +1,4 @@
 ^examples/tutorial/aircraftlib/data/
+\.gif$
+\.ico$
 \.png$
